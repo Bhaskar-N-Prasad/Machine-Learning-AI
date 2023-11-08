@@ -7,7 +7,7 @@ This repository is a comprehensive collection of machine learning models, includ
 3. Deep Learning Models: Neural networks.
 4. Reinforcement Learning Models: RL agents for various tasks.
 5. Natural Language Processing Models: NLP models for text processing and understanding.
-6. Recommendation Systems: Collaborative filtering and content-based recommendation models(UCB & Thomson Sampling).
+6. Recommendation Systems: Collaborative filtering and content-based recommendation models(Apriori & Eclat).
    
 The repository also includes example datasets, Jupyter notebooks for training and evaluating these models.
 
